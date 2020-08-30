@@ -1,0 +1,72 @@
+body {
+	font-family: tahoma;
+}
+td {
+	width: 25px;
+	height: 25px;
+	border: 1px solid black;
+}
+.pus td {
+	border: 1px dotted blue;
+}
+.gameover td {
+	border: 1px solid red;
+}
+#box {
+	text-align: center;
+	position: relative;
+}
+#gamepuse div { margin-top: 100px;}
+#gamepuse {
+	position: absolute;
+	top: 0px;
+	text-align: center;
+	width: 100%;
+	background-color: #999999b3;
+	height: 1000px;
+	z-index: 999;
+	font-size: 28px;
+	display: none;
+}
+#box table {
+	margin: 0 auto;
+}
+div#score {
+	font-size: 59px;
+}
+div#score span {
+	color: #FF0004
+}
+table.pus {
+	border: 1px dotted blue;
+}
+table.gameover {
+	border: 1px dou ble red;
+}
+table {
+	display: inline-block;
+	border: 1px double #000;
+}
+.block {
+	display: inline-block;
+	vertical-align: top;
+}
+.block .titlebox {
+	position: absolute;
+	bottom: 0px;
+	width: 100%;
+}
+.block .title {
+	position: relative;
+	font-size: 20px;
+	height: 85px;
+	text-align: center;
+}
+.topmarg {
+	margin-top: 40px
+}
+img.Help {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
