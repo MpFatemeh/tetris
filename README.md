@@ -1,3 +1,3 @@
 # Tetris
-tetris game
+tetris game:
 open index.html and play tetris.
